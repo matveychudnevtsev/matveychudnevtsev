@@ -14,7 +14,7 @@
 
 ### Сurrently studying:
 
-- Ansible <code><img height="30" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible"></code>
+- Ansible <code><img height="30" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible">- Ansible</code>
 - Docker <code><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker"></code>
 - Linux <code><img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux"></code>
 - Git <code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></code>
