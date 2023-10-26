@@ -1,4 +1,5 @@
-### Hi there 👋
+![github-header-image](https://github.com/matveychudnevtsev/matveychudnevtsev/assets/143214867/8f04c442-b4ef-4b1d-8f32-3959556478c5)
+## Hi there 👋
 
 - 🔭 I'm currently working as a research analyst for Brand Protection.
 - 🌱 I’m currently learning devops (ansible, git, linux, docker)
