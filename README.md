@@ -25,7 +25,7 @@ I am currently working as a devops engineer
 
 <code><img height="30" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab"></code> GitLab 
 
-<code><img height="30" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins"></code> GitLab 
+<code><img height="30" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins"></code> Jenkins 
 
 
 ### I'll study it later:
